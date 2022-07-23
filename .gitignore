@@ -54,4 +54,5 @@ dump.rdb
 composer.lock
 .env
 .env.local
+.env.example
 
