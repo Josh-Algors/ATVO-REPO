@@ -3,9 +3,6 @@
 # Learn more about .gitignore:
 #     https://www.atlassian.com/git/tutorials/saving-changes/gitignore
 
-# Node artifact files
-node_modules/
-dist/
 
 # Compiled Java class files
 *.class
@@ -47,4 +44,14 @@ Thumbs.db
 *.flv
 *.mov
 *.wmv
+
+#files/modules
+/vendor
+/.idea
+Homestead.yaml
+Homestead.json
+dump.rdb
+composer.lock
+.env
+.env.local
 
