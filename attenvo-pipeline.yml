@@ -1,8 +1,9 @@
-php:
-  preset: laravel
-  disabled:
-    - unused_use
-js: true
-css: true
+pipeline:
+  branches:
+    - step 1: 
+        name: Attenvo Application
+          script: 
+            - echo "Welcome!!"
+
 
 
