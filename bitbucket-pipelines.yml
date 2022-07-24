@@ -2,8 +2,8 @@ pipelines:
   branches:
     master:
         name: ATTENVO-REPO
-          script: 
-            - echo "Welcome!!"
+        script: 
+          - echo "Welcome!!"
 
 
 
