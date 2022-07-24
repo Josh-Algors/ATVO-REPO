@@ -1,6 +1,7 @@
 pipelines:
   branches:
-    - step 1: 
+    master:
+    - step: 
         name: Attenvo Application
           script: 
             - echo "Welcome!!"
