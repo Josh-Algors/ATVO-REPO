@@ -1,4 +1,4 @@
-pipeline:
+pipelines:
   branches:
     - step 1: 
         name: Attenvo Application
