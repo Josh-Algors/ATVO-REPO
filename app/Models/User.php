@@ -15,7 +15,5 @@ class User extends Model {
         'avatar'
     ];
 
-    public function user() {
-        return $this->belongsTo('App\User');
-    }
+
 }
